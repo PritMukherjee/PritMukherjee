@@ -1,3 +1,4 @@
+![logo](https://github.com/PritMukherjee/PritMukherjee/blob/main/GitHub%20Banner.png)
 <h1 align="center">Hi 👋, I'm Prit Mukherjee</h1>
 <h3 align="center">Turning Data into Insights | Data Analyst from India </h3>
 
